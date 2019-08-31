@@ -3,7 +3,7 @@ h1 {
     font-family: "tron";
 }
 
-/* tron animation */
+/* tron animation - delete ---> */
 .wave {
     color: #999999;
     -webkit-animation: 5s color infinite;
@@ -30,3 +30,4 @@ h1 {
     -webkit-transition: 1s;
     -moz-transition: 1s;
 }
+/* <--- tron animation - delete */

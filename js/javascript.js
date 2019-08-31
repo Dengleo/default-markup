@@ -1,3 +1,5 @@
+/* tron animation - delete ---> */
+
 tronAnimation();
 
 
@@ -22,3 +24,4 @@ function tronAnimation() {
     } 
 
 }
+/* <--- tron animation - delete */

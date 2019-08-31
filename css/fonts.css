@@ -2,3 +2,7 @@
     font-family: "tron";
     src: url("fonts/TRON.TTF");
 }
+@font-face {
+    font-family: "avenger";
+    src: url("fonts/avenger.ttf");
+}
